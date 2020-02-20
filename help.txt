@@ -14,7 +14,7 @@ Flag \"--colorb\" & \"--colorw\" are for multicolor mode
 colorb - a color scheme for dark background
 colorw - a clolor scheme for light background
 
-Flag \"--wiki\" briefly explains method of equation solving"
+Flag \"--wiki\" briefly explains method of equation solving
 
 Flag \"--web\" flag for Computor v1 in browser
 Flag \"--nat\" flag for natural input & output
