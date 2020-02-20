@@ -1,4 +1,4 @@
-A small Wiki reference for Computor v1 calculation method
+The small Wiki reference for Computor v1 calculation method
 _______________________________________________________________________________
 
 In my Computor v1 project I have used "quadratic formula" method.
