@@ -7,7 +7,7 @@ This is an optimal way to find the value of x that makes the equation true by
 replacing the values in a formula with the coefficients from the quadratic
 equation. The formula is:
 
-x = (-b +/- sqrt(b^2-4ac) / 2a
+x = (-b +- √(b^2 - 4ac)) / 2a
 
 The numbers represented by a, b, and c are the same as those in the original
 equation, ax2 + bx + c = 0. For this formula to work properly, a cannot be equal

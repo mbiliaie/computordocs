@@ -1,6 +1,6 @@
 MAN: Computor v1 by mbiliaie:
 
-You are in a --help mode. This a short manual of Computor v1 project.
+You are in a --help mode. This is a short manual of Computor v1 project.
 This program finds solutions to polynomial equations of degree less
 than or equal to 2 (quadratic & linear equations).
 
