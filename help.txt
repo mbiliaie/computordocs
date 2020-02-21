@@ -7,19 +7,21 @@ than or equal to 2 (quadratic & linear equations).
 There are additional flags in the project:
 
 -------------------------------------------------------------------------
-Flag "--help" for a manual & a complete list of flags      
-Flags "--usage" for Usage - how to use the computor program
+  Flag "--help" for a manual & for a complete list of flags
 
-Flags "--colorb" & "--colorw" are for multicolor modes
-colorb - a color scheme for dark background
-colorw - a clolor scheme for light background
+  Flags "--usage" for Usage - how to use the computor program
 
-Flag "--wiki" briefly explains my method of equation solving
+* Flags "--colorb" & "--colorw" are for multicolor modes
+  colorb - a color scheme for dark background
+  colorw - a clolor scheme for light background
 
-Flag "--web" a flag for Computor v1 in browser
-Flag "--nat" a flag for natural input & output
+  Flag "--wiki" briefly explains my method of equation solving
 
-Flag "--det" a flag for more detailed calculations
+  Flag "--web" a flag for simplified computor program in browser
+* Flag "--nat" a flag for natural input & output
+
+* Flag "--det" a flag for more detailed calculations
 -------------------------------------------------------------------------
 Only one flag at a time is allowed! The default mode is monochrome.
+*Add an equation as a second parameter after this flag
 Remember that an input is always considered to be well formatted.
