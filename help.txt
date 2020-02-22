@@ -23,5 +23,5 @@ There are additional flags in the project:
 * Flag "--det" a flag for more detailed calculations
 -------------------------------------------------------------------------
 Only one flag at a time is allowed! The default mode is monochrome.
-*Add an equation as a second parameter after this flag
+* Add an equation as a second parameter after this flag!
 Remember that an input is always considered to be well formatted.
