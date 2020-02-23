@@ -6,10 +6,10 @@ than or equal to 2 (quadratic & linear equations).
 
 There are additional flags in the project:
 
--------------------------------------------------------------------------
+---------------------------------------------------------------------------
   Flag "--help" for a manual & for a complete list of flags
-
   Flags "--usage" for Usage - how to use the computor program
+  Flags "--redocs" to get the latest versions of docs for --help & --usage
 
 * Flags "--colorb" & "--colorw" are for multicolor modes
   colorb - a color scheme for dark background
@@ -21,7 +21,7 @@ There are additional flags in the project:
 * Flag "--nat" a flag for natural input & output
 
 * Flag "--det" a flag for more detailed calculations
--------------------------------------------------------------------------
+---------------------------------------------------------------------------
 Only one flag at a time is allowed! The default mode is monochrome.
 * Add an equation as a second parameter after this flag!
 Remember that an input is always considered to be well formatted.
