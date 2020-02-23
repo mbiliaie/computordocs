@@ -9,7 +9,7 @@ There are additional flags in the project:
 ---------------------------------------------------------------------------
   Flag "--help" for a manual & for a complete list of flags
   Flags "--usage" for Usage - how to use the computor program
-  Flags "--redocs" to get the latest versions of docs for --help & --wiki
+  Flag "--redocs" to get the latest versions of docs for --help & --wiki
 
 * Flags "--colorb" & "--colorw" are for multicolor modes
   colorb - a color scheme for dark background
